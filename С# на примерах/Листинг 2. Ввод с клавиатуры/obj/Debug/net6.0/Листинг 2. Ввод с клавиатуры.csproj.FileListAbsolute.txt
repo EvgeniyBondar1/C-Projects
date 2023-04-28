@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\Обучение С#\C# На примерах\С# на примерах\Листинг 2. Ввод с клавиатуры\bin\Debug\net6.0\Листинг 2. Ввод с клавиатуры.exe
+C:\Users\User\Desktop\Обучение С#\C# На примерах\С# на примерах\Листинг 2. Ввод с клавиатуры\bin\Debug\net6.0\Листинг 2. Ввод с клавиатуры.deps.json
+C:\Users\User\Desktop\Обучение С#\C# На примерах\С# на примерах\Листинг 2. Ввод с клавиатуры\bin\Debug\net6.0\Листинг 2. Ввод с клавиатуры.runtimeconfig.json
+C:\Users\User\Desktop\Обучение С#\C# На примерах\С# на примерах\Листинг 2. Ввод с клавиатуры\bin\Debug\net6.0\Листинг 2. Ввод с клавиатуры.dll
+C:\Users\User\Desktop\Обучение С#\C# На примерах\С# на примерах\Листинг 2. Ввод с клавиатуры\bin\Debug\net6.0\Листинг 2. Ввод с клавиатуры.pdb
+C:\Users\User\Desktop\Обучение С#\C# На примерах\С# на примерах\Листинг 2. Ввод с клавиатуры\obj\Debug\net6.0\Листинг 2. Ввод с клавиатуры.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Обучение С#\C# На примерах\С# на примерах\Листинг 2. Ввод с клавиатуры\obj\Debug\net6.0\Листинг 2. Ввод с клавиатуры.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Обучение С#\C# На примерах\С# на примерах\Листинг 2. Ввод с клавиатуры\obj\Debug\net6.0\Листинг 2. Ввод с клавиатуры.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Обучение С#\C# На примерах\С# на примерах\Листинг 2. Ввод с клавиатуры\obj\Debug\net6.0\Листинг 2. Ввод с клавиатуры.AssemblyInfo.cs
+C:\Users\User\Desktop\Обучение С#\C# На примерах\С# на примерах\Листинг 2. Ввод с клавиатуры\obj\Debug\net6.0\Листинг 2. Ввод с клавиатуры.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Обучение С#\C# На примерах\С# на примерах\Листинг 2. Ввод с клавиатуры\obj\Debug\net6.0\Листинг 2. Ввод с клавиатуры.dll
+C:\Users\User\Desktop\Обучение С#\C# На примерах\С# на примерах\Листинг 2. Ввод с клавиатуры\obj\Debug\net6.0\refint\Листинг 2. Ввод с клавиатуры.dll
+C:\Users\User\Desktop\Обучение С#\C# На примерах\С# на примерах\Листинг 2. Ввод с клавиатуры\obj\Debug\net6.0\Листинг 2. Ввод с клавиатуры.pdb
+C:\Users\User\Desktop\Обучение С#\C# На примерах\С# на примерах\Листинг 2. Ввод с клавиатуры\obj\Debug\net6.0\Листинг 2. Ввод с клавиатуры.genruntimeconfig.cache
+C:\Users\User\Desktop\Обучение С#\C# На примерах\С# на примерах\Листинг 2. Ввод с клавиатуры\obj\Debug\net6.0\ref\Листинг 2. Ввод с клавиатуры.dll
